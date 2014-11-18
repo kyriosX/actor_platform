@@ -1,0 +1,6 @@
+#surefire
+#Sat Oct 25 18:26:28 EEST 2014
+user.dir=/home/wizzard/projects/agent_platform
+idea.version=13.1.4
+localRepository=/home/wizzard/.m2/repository
+basedir=/home/wizzard/projects/agent_platform
